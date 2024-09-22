@@ -1,5 +1,5 @@
 <?php
-$token="توكن هنا";
+$token="7420730980:AAF3oRXoM9ShcgofUmkKgzEdF9-gKXTXCpY";
 require "class.php";
 require "Telegram.php";
 $bot = new Telegram ($token);
